@@ -33,3 +33,4 @@ def delete_item(item_id: int):
 
 
 #asd gigigiy
+#5월 17일부터 계획시작
